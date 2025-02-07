@@ -4,7 +4,8 @@
 اجرای پروژه:
     فایل رو از زیپ خارج کرده.
 
-    فایل‌های admin.html و monitor.html به همراه کد CSS و Font در یک پوشه به نام CueTimer قرار دارد.
+    فایل‌های admin.html و monitor.html 
+    به همراه کد CSS و Font در یک پوشه به نام CueTimer قرار دارد.
 
     هر دو فایل را در مرورگر باز کنید.
 
